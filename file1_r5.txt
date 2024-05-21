@@ -1,0 +1,2 @@
+Experimented the git commands for different operations on files in the folder.
+Understood the concept of git commands for hosting local files to remote servers.
