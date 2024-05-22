@@ -6,3 +6,4 @@ Remote repo4 shows message i.e., compare and pull request option above the file.
 adding commit message to branch file.
 understanding the command git fetch.
 also about git pull
+gitlens extension installed
